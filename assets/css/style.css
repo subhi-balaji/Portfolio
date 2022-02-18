@@ -1003,12 +1003,12 @@ body {
 /* Section: Services */
 .section-services.site-section {
   padding: 0;
-  background-color: #ff0000;
+  background-color: #000000; /* background for "web design" */
 }
 
 .section-services .container-fluid {
   padding: 100px 15px 70px;
-  background-color: #00ff00;
+  background-color: #000000; /* background for "services we offer" */
 }
 
 .section-services .container-fluid + .container {
