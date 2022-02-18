@@ -305,13 +305,13 @@ body {
   margin-top: 17px;
   font-size: 26px;
   line-height: 26px;
-  color: #000000;
+  color: #ffffff; /* Navbar logo text color */
   text-transform: uppercase;
 }
 
 /* Navigation */
 .site-navigation {
-  background-color: #196fc2;
+  background-color: #ffffff1f;
 }
 
 .site-navigation.affix {
@@ -330,7 +330,7 @@ body {
   padding: 0px 3px 21px;
   font-size: 14px;
   line-height: 14px;
-  color: #000000; /* Navbar text color */
+  color: #ffffff; /* Navbar text color */
   text-transform: uppercase;
   border-bottom: 2px solid transparent;
   -webkit-transition: border-color 0.25s ease-in-out;
@@ -595,7 +595,7 @@ body {
 /* SITEMAIN
 ================================================== */
 .site-main {
-  background-color: #ffffff;
+  background-color: #000000;
   z-index: 1;
 }
 
