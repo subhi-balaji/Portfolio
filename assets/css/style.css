@@ -305,7 +305,7 @@ body {
   margin-top: 17px;
   font-size: 26px;
   line-height: 26px;
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
 }
 
@@ -330,7 +330,7 @@ body {
   padding: 0px 3px 21px;
   font-size: 14px;
   line-height: 14px;
-  color: #000000;
+  color: #000000; /* Navbar text color */
   text-transform: uppercase;
   border-bottom: 2px solid transparent;
   -webkit-transition: border-color 0.25s ease-in-out;
