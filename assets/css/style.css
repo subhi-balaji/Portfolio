@@ -2249,7 +2249,7 @@ textarea.form-control {
   position: relative;
   padding: 70px 15px;
   text-align: center;
-  border-bottom: 1px solid #ff0000;
+  border-bottom: 1px solid #dddddd; /* line at bottom of site */
 }
 
 .site-footer .container {
@@ -2294,7 +2294,7 @@ textarea.form-control {
   height: 40px;
   background-color: #000;
   border: none;
-  color: #ffffff;
+  color: #ff0000;
   box-shadow: none;
 }
 
