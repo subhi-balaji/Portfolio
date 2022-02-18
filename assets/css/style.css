@@ -119,7 +119,7 @@ body {
   margin: 0 auto;
   width: 230px;
   height: 230px;
-  background-color: #ff00bf;
+  background-color: #196fc2;
   border: 0;
   transform: translate(-50%, -50%) rotate(45deg);
   -webkit-transform: translate(-50%, -50%) rotate(45deg);
@@ -295,7 +295,7 @@ body {
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #004b91;
+  background-color: #7600a5;
 }
 
 .site-logo a {
