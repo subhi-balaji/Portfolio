@@ -285,7 +285,7 @@ body {
   position: relative;
   padding: 0 30px 0 15px;
   height: 60px;
-  background-color: #ffffff1f;
+  background-color: #ffffff00;
   z-index: 2;
 }
 
@@ -296,7 +296,7 @@ body {
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #ffffff1f; /* logo background for navbar */
+  background-color: #ffffff0e; /* logo background for navbar */
 }
 
 .site-logo a {
