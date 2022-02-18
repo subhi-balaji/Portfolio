@@ -352,7 +352,7 @@ body {
 .nav > li > a:hover,
 .nav > li.active > a {
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #ff0000;
 }
 
 .nav > li > a:focus {
@@ -390,7 +390,7 @@ body {
   }
   .site-navigation .navbar-toggle .icon-bar {
     position: relative;
-    background-color: rgb(255, 2, 2);
+    background-color: rgb(255, 255, 255);
     transition: top 0.25s ease-in-out;
     -moz-transition: top 0.25s ease-in-out;
     -webkit-transition: top 0.25s ease-in-out;
