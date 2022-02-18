@@ -1538,7 +1538,7 @@ body {
 /* Section: History */
 .section-history {
   padding: 70px 0;
-  background-color: #f6f6f6;
+  background-color: #000000;
 }
 
 .section-history .section-diff-title h2 {
