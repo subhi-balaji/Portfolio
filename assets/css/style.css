@@ -2046,7 +2046,7 @@ body {
 .section-background p {
   position: relative;
   margin: 10px 0 0;
-  color: #cc0000;
+  color: #ffffff;
 }
 
 .section-background .btn {
@@ -2249,7 +2249,7 @@ textarea.form-control {
   position: relative;
   padding: 70px 15px;
   text-align: center;
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #ff0000;
 }
 
 .site-footer .container {
