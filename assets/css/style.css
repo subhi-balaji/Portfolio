@@ -1538,7 +1538,7 @@ body {
 /* Section: History */
 .section-history {
   padding: 70px 0;
-  background-color: #000000;
+  background-color: #000000; /* a look back at our history background */
 }
 
 .section-history .section-diff-title h2 {
@@ -2046,7 +2046,7 @@ body {
 .section-background p {
   position: relative;
   margin: 10px 0 0;
-  color: #ffffff;
+  color: #cc0000;
 }
 
 .section-background .btn {
