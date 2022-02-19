@@ -482,32 +482,7 @@ body {
   animation: text 3s 1;
 }
 
-.hero-content p {
-  padding: 0 15px;
-  margin: 30px auto 0;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.hero-content .hero-job {
-  font-size: 60px; /* home second line font size */
-  position: relative;
-  animation: text 3s 1;
-}
-
-.hero-content .hero-job span {
-  padding-bottom: 5px;
-  border-bottom: 1px solid #ffffff;
-}
-
-.hero-content .hero-job-desc {
-  font-size: 18px; /* home third line font size */
-  max-width: 700px;
-  position: relative;
-  animation: text 3s 1;
-}
-
-@keyframes text {
+@keyframes h1 {
   0% {
     color: black;
     margin-bottom: -40px;
@@ -520,6 +495,27 @@ body {
     letter-spacing: 8px;
     margin-bottom: -40px;
   }
+}
+
+.hero-content p {
+  padding: 0 15px;
+  margin: 30px auto 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.hero-content .hero-job {
+  font-size: 60px; /* home second line font size */
+}
+
+.hero-content .hero-job span {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.hero-content .hero-job-desc {
+  font-size: 18px; /* home third line font size */
+  max-width: 700px;
 }
 
 .hero-arrow {
