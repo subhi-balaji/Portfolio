@@ -491,6 +491,8 @@ body {
 
 .hero-content .hero-job {
   font-size: 60px; /* home second line font size */
+  position: relative;
+  animation: text 3s 1;
 }
 
 .hero-content .hero-job span {
@@ -501,6 +503,8 @@ body {
 .hero-content .hero-job-desc {
   font-size: 18px; /* home third line font size */
   max-width: 700px;
+  position: relative;
+  animation: text 3s 1;
 }
 
 @keyframes text {
