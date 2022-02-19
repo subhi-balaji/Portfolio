@@ -454,6 +454,7 @@ body {
   color: #ffffff;
   display: table-cell;
   vertical-align: middle;
+  text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -463,16 +464,17 @@ body {
 
 .hero-content span {
   color: white;
+  text-transform: uppercase;
   display: block;
 }
 
 .hero-content h1 {
+  color: white;
   width: 100%;
   padding: 0 15px;
   font-size: 120px; /* home first line font size */
   font-weight: 700;
   letter-spacing: 8px;
-  text-align: center;
   margin: 0 auto;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -491,6 +493,16 @@ body {
   font-size: 60px; /* home second line font size */
 }
 
+.hero-content .hero-job span {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.hero-content .hero-job-desc {
+  font-size: 18px; /* home third line font size */
+  max-width: 700px;
+}
+
 @keyframes text {
   0% {
     color: black;
@@ -504,15 +516,6 @@ body {
     letter-spacing: 8px;
     margin-bottom: -40px;
   }
-}
-.hero-content .hero-job span {
-  padding-bottom: 5px;
-  border-bottom: 1px solid #ffffff;
-}
-
-.hero-content .hero-job-desc {
-  font-size: 18px; /* home third line font size */
-  max-width: 700px;
 }
 
 .hero-arrow {
