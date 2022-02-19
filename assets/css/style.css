@@ -462,6 +462,7 @@ body {
   padding: 0 15px;
   font-size: 120px; /* home first line font size */
   font-weight: 700;
+  letter-spacing: 8px;
   text-align: center;
   margin: 0 auto;
   text-transform: uppercase;
