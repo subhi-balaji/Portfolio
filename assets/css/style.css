@@ -301,7 +301,7 @@ body {
 
 .site-logo a {
   position: relative;
-  left: -330px;
+  left: -300px;
   font-family: "Varela", sans-serif;
   display: inline-block;
   margin-top: 17px;
@@ -326,6 +326,8 @@ body {
 
 .site-navigation .navbar-nav {
   padding-top: 23px;
+  position: relative;
+  right: -300px;
 }
 
 .site-navigation .navbar-nav > li > a {
