@@ -599,7 +599,7 @@ body {
 /* SITEMAIN
 ================================================== */
 .site-main {
-  background-color: #000000; /*SITE BACKGROUND COLOR*/
+  background-color: #040404; /*SITE BACKGROUND COLOR*/
   z-index: 1;
 }
 
@@ -855,7 +855,7 @@ body {
 
 /* Section: Skills */
 .section-skills {
-  background-color: #000000; /* skills background */
+  background-color: #040404; /* skills background */
 }
 
 .section-skills h2 {
@@ -1007,12 +1007,12 @@ body {
 /* Section: Services */
 .section-services.site-section {
   padding: 0;
-  background-color: #000000; /* background for "web design" */
+  background-color: #040404; /* background for "web design" */
 }
 
 .section-services .container-fluid {
   padding: 100px 15px 70px;
-  background-color: #000000; /* background for "services we offer" */
+  background-color: #040404; /* background for "services we offer" */
 }
 
 .section-services .container-fluid + .container {
@@ -1542,7 +1542,7 @@ body {
 /* Section: History */
 .section-history {
   padding: 70px 0;
-  background-color: #000000; /* a look back at our history background */
+  background-color: #040404; /* a look back at our history background */
 }
 
 .section-history .section-diff-title h2 {
