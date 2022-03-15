@@ -343,6 +343,10 @@ body {
   transition: border-color 0.25s ease-in-out;
 }
 
+.site-navigation .navbar-nav > li > a:hover {
+  color: #a381ff;
+}
+
 .site-navigation .navbar-nav.navbar-right {
   margin-right: 0;
 }
