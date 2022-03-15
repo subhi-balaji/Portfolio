@@ -347,7 +347,7 @@ body {
   border-color: #a381ff;
 }
 
-.site-navigation .navbar-nav > li > a:after {
+.site-navigation .navbar-nav > li > a:hover {
   color: #a381ff;
   border-color: #a381ff;
 }
