@@ -344,6 +344,10 @@ body {
 }
 
 .site-navigation .navbar-nav > li > a:hover {
+  border-color: #a381ff;
+}
+
+.site-navigation .navbar-nav > li > a:after {
   color: #a381ff;
   border-color: #a381ff;
 }
