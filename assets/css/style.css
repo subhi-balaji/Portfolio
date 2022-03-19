@@ -1024,12 +1024,13 @@ body {
   font-size: 30px;
   text-align: center;
   font-family: "Varela", sans-serif;
-  color: #a7a7a7;
+  color: #ffffff;
 }
 
 .section-services.site-section {
   padding: 0;
-  background-color: #040404; /* background for "web design" */
+  background-color: #a381ff; /* background for "web design" */
+  padding-bottom: 60px;
 }
 
 .section-services .container-fluid {
