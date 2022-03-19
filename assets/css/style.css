@@ -38,13 +38,15 @@ body {
  * Background colors 
  */
 
-/*
-background for relevent coursework
+/*background for relevent coursework*/
 
-.blue-bg {
-  background-color: #a381ff;
+.blue-bg li {
+  position: relative;
+  font-size: 30px;
+  text-align: left;
+  font-family: "Varela", sans-serif;
+  color: #ffffff;
 }
-*/
 
 /* 
  * Button
@@ -1024,10 +1026,10 @@ background for relevent coursework
 
 /* Section: Services */
 
-.section-services .container li {
+.section-services .container p {
   position: relative;
   font-size: 30px;
-  text-align: left;
+  text-align: center;
   font-family: "Varela", sans-serif;
   color: #ffffff;
 }
