@@ -1024,10 +1024,10 @@ background for relevent coursework
 
 /* Section: Services */
 
-.section-services .container p {
+.section-services .container li {
   position: relative;
   font-size: 30px;
-  text-align: center;
+  text-align: left;
   font-family: "Varela", sans-serif;
   color: #ffffff;
 }
