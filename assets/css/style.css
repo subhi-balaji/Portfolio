@@ -1019,9 +1019,9 @@ body {
 
 /* Section: Services */
 
-.section-services p {
+.section-services .container p {
   position: relative;
-  font-size: 15px;
+  font-size: 30px;
   text-align: center;
   font-family: "Varela", sans-serif;
 }
