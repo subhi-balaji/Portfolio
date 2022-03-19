@@ -1018,6 +1018,13 @@ body {
 }
 
 /* Section: Services */
+
+.section-services p {
+  position: relative;
+  font-size: 15px;
+  text-align: middle;
+}
+
 .section-services.site-section {
   padding: 0;
   background-color: #040404; /* background for "web design" */
