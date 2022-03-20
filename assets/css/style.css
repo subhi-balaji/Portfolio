@@ -50,6 +50,7 @@ body {
 
 .review li {
   text-align: center;
+  left: -20px;
 }
 
 .review2 li {
