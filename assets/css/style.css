@@ -644,6 +644,9 @@ body {
   color: #a381ff;
   text-align: center;
   text-transform: uppercase;
+  background: -webkit-linear-gradient(#ff7cd7, #d264ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .section-subtitle {
