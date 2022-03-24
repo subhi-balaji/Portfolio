@@ -477,7 +477,7 @@ body {
 
 .background-overlay:before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgb(0 0 0 / 23%);
   height: 100%;
   width: 100%;
   position: absolute;
