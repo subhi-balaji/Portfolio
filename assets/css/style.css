@@ -671,7 +671,7 @@ body {
   margin: 15px 0 0;
   font-size: 16px;
   line-height: 16px;
-  color: #666;
+  color: #e4dfff;
   letter-spacing: 2px;
   text-align: center;
   text-transform: uppercase;
@@ -686,7 +686,7 @@ body {
   display: inline-block;
   content: "";
   height: 1px;
-  background-color: #666;
+  background-color: #e4dfff;
   width: 20px;
   position: absolute;
   top: 50%;
