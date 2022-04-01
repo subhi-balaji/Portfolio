@@ -665,7 +665,7 @@ body {
   -webkit-text-fill-color: transparent;*/
 }
 
-.site-section .section-hello .row p {
+.site-section .section-hello .container .row p {
   color: #ffffff;
 }
 
