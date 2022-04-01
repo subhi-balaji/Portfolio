@@ -665,6 +665,9 @@ body {
   -webkit-text-fill-color: transparent;*/
 }
 
+.site-section .section-hello p {
+  color: #ffffff;
+}
 .section-subtitle {
   position: relative;
   font-family: "Varela", sans-serif;
