@@ -2247,9 +2247,9 @@ body {
   line-height: 85px;
   text-align: center;
   margin: 0 15px;
-
-  filter: brightness(100%);
-  -webkit-filter: brightness(100%);
+  /*filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); */
+  color: #ffffff;
 }
 
 .client:hover {
