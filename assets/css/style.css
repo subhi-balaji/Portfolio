@@ -2389,7 +2389,7 @@ textarea.form-control {
 
 .site-footer a {
   font-size: 12px;
-  color: #666;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -2405,9 +2405,9 @@ textarea.form-control {
   margin: 0 auto;
   width: 40px;
   height: 40px;
-  background-color: #000;
+  background-color: #ffffff;
   border: none;
-  color: #ffffff; /* arrow color inside diamond at bottom of site */
+  color: #000; /* arrow color inside diamond at bottom of site */
   box-shadow: none;
 }
 
@@ -2418,6 +2418,7 @@ textarea.form-control {
 
 .site-footer .copyright {
   margin-bottom: 0;
+  color: #ffffff;
 }
 
 @media only screen and (max-width: 767px) {
