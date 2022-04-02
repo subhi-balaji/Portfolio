@@ -713,7 +713,7 @@ body {
 .section-diff-title h2 {
   margin: 0;
   font-weight: 300;
-  color: #666;
+  color: #ffffff;
 }
 
 .section-diff-title p {
@@ -2257,6 +2257,7 @@ body {
 }
 
 .client img {
+  color: #ffffff;
   display: inline-block;
   height: 80px;
 }
