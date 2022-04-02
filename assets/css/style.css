@@ -2249,7 +2249,11 @@ body {
   margin: 0 15px;
   /*filter: grayscale(100%);
   -webkit-filter: grayscale(100%); */
-  color: #ffffff;
+  filter: brightness(5000%);
+  -webkit-filter: brightness(5000%);
+  -moz-filter: brightness(5000%);
+  -o-filter: brightness(5000%);
+  -ms-filter: brightness(5000%);
 }
 
 .client:hover {
