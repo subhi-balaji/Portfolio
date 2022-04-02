@@ -2247,8 +2247,9 @@ body {
   line-height: 85px;
   text-align: center;
   margin: 0 15px;
-  filter: white(100%);
-  -webkit-filter: white(100%);
+
+  filter: brightness(100%);
+  -webkit-filter: brightness(100%);
 }
 
 .client:hover {
