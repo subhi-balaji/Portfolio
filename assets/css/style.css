@@ -2407,7 +2407,7 @@ textarea.form-control {
   height: 40px;
   background-color: #ffffff;
   border: none;
-  color: #000; /* arrow color inside diamond at bottom of site */
+  color: #a889c1; /* arrow color inside diamond at bottom of site */
   box-shadow: none;
 }
 
