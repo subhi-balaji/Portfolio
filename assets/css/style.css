@@ -2280,6 +2280,7 @@ body {
 .client:hover {
   filter: grayscale(0%);
   -webkit-filter: grayscale(0%);
+  color: #337ab7;
 }
 
 .client img {
