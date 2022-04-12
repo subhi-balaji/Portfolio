@@ -669,6 +669,11 @@ body {
 .section-hello .row p {
   color: #ffffff;
   font-size: 28px;
+  width: 40%;
+}
+
+.section-hello .newimg a{
+  right:10px;
 }
 
 .section-subtitle {
