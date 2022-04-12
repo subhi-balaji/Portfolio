@@ -672,8 +672,8 @@ body {
   width: 40%;
 }
 
-.section-hello .newimg a{
-  right:10px;
+.section-hello .row .client img{
+  float: right;
 }
 
 .section-subtitle {
