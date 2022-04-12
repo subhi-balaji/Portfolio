@@ -674,6 +674,9 @@ body {
 
 .section-hello .row .client img{
   float: right;
+  width: 30%;
+  height: 10%;
+  margin-top: -500px;
 }
 
 .section-subtitle {
