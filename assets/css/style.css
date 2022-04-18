@@ -683,23 +683,12 @@ body {
   z-index: 0;
 }
 
-/*
 .section-hello .row .client img{
   float: right;
   width: 60%;
   height: 60%;
   margin-top: -520px;
   margin-right:-150px;
-}
-*/
-
-.section-hello .row .about-me-image img{
-  
-  float: right;
-  width: 60%;
-  height: 60%;
-  margin-top: -520px;
-  margin-right: -150px;
 }
 
 .section-subtitle {
