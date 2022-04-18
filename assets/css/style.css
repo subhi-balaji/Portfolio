@@ -683,12 +683,23 @@ body {
   z-index: 0;
 }
 
+/*
 .section-hello .row .client img{
   float: right;
   width: 60%;
   height: 60%;
   margin-top: -520px;
   margin-right:-150px;
+}
+*/
+
+.about-me-image{
+  position: absolute;
+  float: right;
+  width: 60%;
+  height: 60%;
+  margin-top: -520px;
+  margin-right: -150px;
 }
 
 .section-subtitle {
