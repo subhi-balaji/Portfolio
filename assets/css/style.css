@@ -683,7 +683,7 @@ body {
   z-index: 0;
 }
 
-.section-hello .row .client img{
+.section-hello .row .timeline-body-thumb img{
   float: right;
   width: 60%;
   height: 60%;
