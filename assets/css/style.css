@@ -694,7 +694,7 @@ body {
 */
 
 .section-hello .row .about-me-image img{
-  position: absolute;
+  
   float: right;
   width: 60%;
   height: 60%;
