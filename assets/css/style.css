@@ -1119,10 +1119,11 @@ body {
     rgb(209 136 176) 72%,
     rgb(237 195 201) 100%
   );
+  margin-bottom: -80px;
 }
 
 .section-services .container-fluid + .container {
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 .section-services .col-sm-fifth {
