@@ -1092,6 +1092,9 @@ body {
 
 /* Section: Services */
 
+.section-services{
+  margin-top: -100px;
+}
 .section-services .container p {
   position: relative;
   font-size: 30px;
