@@ -1092,9 +1092,7 @@ body {
 
 /* Section: Services */
 
-.section-services .container-fluid{
-  margin-top: -100px;
-}
+
 .section-services .container p {
   position: relative;
   font-size: 30px;
@@ -1113,7 +1111,8 @@ body {
     rgb(209 136 176) 72%,
     rgb(237 195 201) 100%
   );
-  padding-bottom: 60px;
+  margin-top:-200px;
+  margin-bottom:-100px;
 }
 
 .section-services .container-fluid {
