@@ -667,7 +667,7 @@ body {
 }
 
 .section-hello .row p {
-  color: #ffffff;
+  color: #e4dfff;
   font-size: 28px;
   width: 40%;
 }
@@ -884,7 +884,7 @@ body {
 
 .section-about .col-sm-3 {
   min-height: 250px;
-  color:white;
+  color:#e4dfff;
 }
 
 .section-about .rectangle {
@@ -1098,7 +1098,7 @@ body {
   font-size: 30px;
   text-align: center;
   font-family: "Varela", sans-serif;
-  color: #ffffff;
+  color: #e4dfff;
 }
 
 .section-services.site-section {
