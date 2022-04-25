@@ -369,12 +369,12 @@ body {
 }
 
 .site-navigation .navbar-nav > li > a:hover {
-  border-color: #a381ff;
+  border-color: #e4dfff;
 }
 
 .site-navigation .navbar-nav > li > a:focus {
-  color: #a381ff;
-  border-color: #a381ff;
+  color: #e4dfff;
+  border-color: #e4dfff;
 }
 
 .site-navigation .navbar-nav.navbar-right {
