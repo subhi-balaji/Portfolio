@@ -685,10 +685,11 @@ body {
 
 .section-hello .row .timeline-body-thumb img{
   float: right;
-  width: 60%;
-  height: 60%;
-  margin-top: -520px;
-  margin-right:-150px;
+  width: 45%;
+  height: 45%;
+  margin-top: -535px;
+  margin-right:-80px;
+  clip-path:circle();
 }
 
 .section-subtitle {
