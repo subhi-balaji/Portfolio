@@ -446,7 +446,6 @@ body {
   }
   .site-navigation .navbar-collapse {
     position: relative;
-    background-color: #a381ff;
     z-index: 99;
     text-align: center;
     border-top: 0;
@@ -667,7 +666,7 @@ body {
 }
 
 .section-hello .row p {
-  color: #e4dfff;
+  color: #e7f4ff;
   font-size: 28px;
   width: 40%;
 }
