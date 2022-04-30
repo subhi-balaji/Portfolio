@@ -1629,19 +1629,19 @@ body {
   margin: 0 auto;
 }
 
-.section-team .row h2{
+.section-team .team h2{
   color: #ffffff;
   font-size: 35px;
   width: 40%;
 }
 
-.section-team .row p{
+.section-team .team p{
   color: #e7f4ff;
   font-size: 28px;
   width: 40%;
 }
 
-.section-team .row .timeline-body-thumb img{
+.section-team .team .timeline-body-thumb img{
   float: right;
   width: 45%;
   height: 45%;
