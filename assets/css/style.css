@@ -1488,7 +1488,7 @@ body {
 
 /* Section: Team */
 .team {
-  margin-top: 50px;
+  margin-top: 70px;
 }
 
 .team-member {
@@ -1644,10 +1644,10 @@ body {
 
 .section-team .team .timeline-body-thumb img{
   float: right;
-  width: 55%;
-  height: 55%;
-  margin-top: -360px;
-  margin-right: -80px;
+  width: 75%;
+  height: 75%;
+  margin-top: -560px;
+  margin-right: -260px;
   clip-path: circle();
 }
 
