@@ -1633,6 +1633,7 @@ body {
   color: #ffffff;
   font-size: 35px;
   width: 40%;
+  text-align: left;
 }
 
 .section-team .team p{
@@ -1643,9 +1644,9 @@ body {
 
 .section-team .team .timeline-body-thumb img{
   float: right;
-  width: 45%;
-  height: 45%;
-  margin-top: -535px;
+  width: 55%;
+  height: 55%;
+  margin-top: -360px;
   margin-right: -80px;
   clip-path: circle();
 }
