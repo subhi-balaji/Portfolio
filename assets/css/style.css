@@ -9,7 +9,7 @@
 ================================================== */
 @font-face {
   font-family: "Ampersand";
-  src: url('../fonts/ampersand-bold.woff2') format('woff2');
+  src: url("../fonts/ampersand-bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: block;
@@ -494,12 +494,12 @@ body {
   z-index: 0;
 }
 
-.hero-content {
+/* .hero-content {
   color: #ffffff;
   display: table-cell;
   vertical-align: middle;
   position: relative;
-}
+} */
 
 .hero-content h1 {
   width: 100%;
@@ -510,6 +510,24 @@ body {
   margin: 0 auto;
   text-transform: uppercase;
   font-family: Ampersand;
+}
+
+.hero-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6.5rem 10rem;
+  min-height: 100vh;
+}
+
+.hero-content h2 {
+  color: #fffffff5;
+  font-size: clamp(120px, 10vw, 150px);
+  text-transform: uppercase;
+  font-family: Ampersand;
+  margin: 0 !important;
 }
 
 .hero-content p {
@@ -692,13 +710,13 @@ body {
   z-index: 0;
 }
 
-.section-hello .row .timeline-body-thumb img{
+.section-hello .row .timeline-body-thumb img {
   float: right;
   width: 45%;
   height: 45%;
   margin-top: -535px;
-  margin-right:-80px;
-  clip-path:circle();
+  margin-right: -80px;
+  clip-path: circle();
 }
 
 .section-subtitle {
@@ -791,8 +809,8 @@ body {
 }
 
 /* Section: Hello */
-.section-hello .container{
-  margin-bottom:-100px;
+.section-hello .container {
+  margin-bottom: -100px;
 }
 .section-hello .row {
   margin-top: 70px;
@@ -894,7 +912,7 @@ body {
 
 .section-about .col-sm-3 {
   min-height: 250px;
-  color:#e4dfff;
+  color: #e4dfff;
 }
 
 .section-about .rectangle {
@@ -1102,7 +1120,6 @@ body {
 
 /* Section: Services */
 
-
 .section-services .container p {
   position: relative;
   font-size: 30px;
@@ -1121,8 +1138,8 @@ body {
     rgb(209 136 176) 72%,
     rgb(237 195 201) 100%
   );
-  margin-top:-200px;
-  margin-bottom:-100px;
+  margin-top: -200px;
+  margin-bottom: -100px;
 }
 
 .section-services .container-fluid {
@@ -1639,20 +1656,20 @@ body {
   margin: 0 auto;
 }
 
-.section-team .team h2{
+.section-team .team h2 {
   color: #ffffff;
   font-size: 35px;
   width: 40%;
   text-align: left;
 }
 
-.section-team .team p{
+.section-team .team p {
   color: #e7f4ff;
   font-size: 28px;
   width: 40%;
 }
 
-.section-team .team .timeline-body-thumb img{
+.section-team .team .timeline-body-thumb img {
   float: right;
   width: 75%;
   height: 75%;
