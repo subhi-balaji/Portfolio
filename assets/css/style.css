@@ -7,6 +7,14 @@
 
 /* CUSTOM RESETS
 ================================================== */
+@font-face {
+  font-family: "Ampersand";
+  src: url("https://uploads-ssl.webflow.com/5e1e29388e0a4f467dbe0cf1/60048bb298c87b21b884d03f_Ampersand-Bold.woff2%22");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+
 a,
 button {
   -webkit-transition: all 0.25s ease-in-out;
@@ -501,6 +509,7 @@ body {
   text-align: center;
   margin: 0 auto;
   text-transform: uppercase;
+  font-family:'Ampersand';
 }
 
 .hero-content p {
