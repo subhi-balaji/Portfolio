@@ -67,6 +67,7 @@ body {
 .nav__item--ul ul li {
   list-style: none;
   flex: 1;
+  font-family: Ampersand;
 }
 @font-face {
   font-family: "Ampersand";
