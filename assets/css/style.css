@@ -2272,6 +2272,10 @@ body {
   }
 }
 
+.works {
+  margin-top: 70px;
+}
+
 .section-works .works h2 {
   color: #ffffff;
   font-size: 35px;
