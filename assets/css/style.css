@@ -2293,9 +2293,9 @@ body {
 
 .section-works .works .timeline-body-thumb img {
   float: right;
-  width: 75%;
-  height: 75%;
-  margin-top: -560px;
+  width: 60%;
+  height: 60%;
+  margin-top: -440px;
   margin-right: -260px;
   clip-path: circle();
 }
