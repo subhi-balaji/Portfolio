@@ -743,7 +743,8 @@ body {
 }
 
 .site-section h2 {
-  font-family: "Varela", sans-serif;
+  /* font-family: "Varela", sans-serif; */
+  font-family: Ampersand;
   margin: 0;
   font-size: 32px;
   color: #ffffff;
