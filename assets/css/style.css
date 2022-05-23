@@ -1737,22 +1737,22 @@ body {
 
 .section-team .team h2 {
   color: #ffffff;
-  font-size: 35px;
+  font-size: 30px;
   width: 40%;
   text-align: left;
 }
 
-.section-team .team p {
+.section-team .team .project-description p {
   color: #f9e8fb;
-  font-size: 28px;
+  font-size: 24px;
   width: 40%;
 }
 
 .section-team .team .timeline-body-thumb img {
   float: right;
-  width: 75%;
-  height: 75%;
-  margin-top: -560px;
+  width: 65%;
+  height: 65%;
+  margin-top: -455px;
   margin-right: -260px;
   clip-path: circle();
 }
