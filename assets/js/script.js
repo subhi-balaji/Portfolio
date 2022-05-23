@@ -220,7 +220,7 @@ const navbar = document.getElementById("navting");
 
 function followNavbar(e) {
   if (window.scrollY >= 80) {
-    navbar.style = `background-image: linear-gradient(180deg, rgba(255, 88, 144, .4),rgba(0, 0, 0, 0)); min-height:80px`;
+    navbar.style = `background-image: linear-gradient(180deg, rgb(104 99 145),rgba(0, 0, 0, 0)); min-height:80px`;
     return () => window.removeEventListener("scroll");
   } else if (window.scrollY < 125) {
     return (navbar.style = `background-image: linear-gradient(180deg, rgba(236, 47, 253, 0),rgba(0, 0, 0, 0));`);
