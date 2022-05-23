@@ -757,7 +757,7 @@ body {
 }
 
 .section-hello .row p {
-  color: #e7f4ff;
+  color: #f9e8fb;
   font-size: 28px;
   width: 40%;
 }
@@ -991,7 +991,7 @@ body {
 
 .section-about .col-sm-3 {
   min-height: 250px;
-  color: #e4dfff;
+  color: #f9e8fb;
 }
 
 .section-about .rectangle {
@@ -1204,7 +1204,7 @@ body {
   font-size: 30px;
   text-align: center;
   font-family: "Varela", sans-serif;
-  color: #e4dfff;
+  color: #f9e8fb;
 }
 
 .section-services.site-section {
@@ -1743,7 +1743,7 @@ body {
 }
 
 .section-team .team p {
-  color: #e7f4ff;
+  color: #f9e8fb;
   font-size: 28px;
   width: 40%;
 }
@@ -2302,7 +2302,7 @@ body {
 }
 
 .section-works .works .experience-description p {
-  color: #e7f4ff;
+  color: #f9e8fb;
   font-size: 24px;
   width: 40%;
   margin-bottom: 70px;
