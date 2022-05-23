@@ -2301,7 +2301,7 @@ body {
   text-align: left;
 }
 
-.section-works .works p {
+.section-works .works .experience-description p {
   color: #e7f4ff;
   font-size: 28px;
   width: 40%;
