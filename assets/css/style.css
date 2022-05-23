@@ -2296,22 +2296,22 @@ body {
 
 .section-works .works h2 {
   color: #ffffff;
-  font-size: 35px;
+  font-size: 30px;
   width: 40%;
   text-align: left;
 }
 
 .section-works .works .experience-description p {
   color: #e7f4ff;
-  font-size: 28px;
+  font-size: 24px;
   width: 40%;
   margin-bottom: 70px;
 }
 
 .section-works .works .timeline-body-thumb img {
   float: right;
-  width: 60%;
-  height: 60%;
+  width: 40%;
+  height: 40%;
   margin-top: -440px;
   margin-right: -260px;
   clip-path: circle();
