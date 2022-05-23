@@ -2312,7 +2312,7 @@ body {
   float: right;
   width: 40%;
   height: 40%;
-  margin-top: -440px;
+  margin-top: -100px;
   margin-right: -260px;
   clip-path: circle();
 }
