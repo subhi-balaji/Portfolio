@@ -822,6 +822,18 @@ body {
   right: -30px;
 }
 
+.section-date {
+  position: relative;
+  font-family: "Varela", sans-serif;
+  margin: 15px 0 0;
+  font-size: 14px;
+  line-height: 16px;
+  color: #e4dfff;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
 .section-diff-title h2 {
   margin: 0;
   font-weight: 300;
