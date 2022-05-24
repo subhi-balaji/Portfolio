@@ -1199,7 +1199,7 @@ body {
 
 /* Section: Services */
 
-.section-services .container p {
+.section-services .container .college p {
   position: relative;
   font-size: 30px;
   text-align: center;
