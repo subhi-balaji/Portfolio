@@ -888,9 +888,10 @@ body {
 }
 
 /* Section: Hello */
-.section-hello .container {
-  margin-bottom: -100px;
-}
+/* .section-hello .container {
+ 
+} */
+
 .section-hello .row {
   margin-top: 70px;
 }
