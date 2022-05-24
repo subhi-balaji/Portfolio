@@ -1199,6 +1199,9 @@ body {
 
 /* Section: Services */
 
+.section-services .container .college {
+  margin-top: 70px;
+}
 .section-services .container .college p {
   position: relative;
   font-size: 30px;
@@ -1208,7 +1211,7 @@ body {
 }
 
 .section-services.site-section {
-  padding: 0;
+  /* padding: 0; */
   /*background-color: #a381ff; /* background for "web design" */
   background: linear-gradient(
     90deg,
