@@ -2319,6 +2319,15 @@ body {
   clip-path: circle();
 }
 
+.section-background
+  .section-me
+  .background-overlay
+  .text-center
+  .timeline-company-logo
+  img {
+  width: 90%;
+}
+
 /*
  * Sections: Background;
  */
