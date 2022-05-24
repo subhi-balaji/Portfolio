@@ -743,10 +743,6 @@ body {
   padding: 100px 0;
 }
 
-.site-section .section-works {
-  margin-bottom: -70px;
-}
-
 .site-section h2 {
   /* font-family: "Varela", sans-serif; */
   font-family: Ampersand;
@@ -2294,22 +2290,22 @@ body {
   }
 }
 
-.works {
+/* .works {
   margin-top: 70px;
-}
+} */
 
 .section-works .works h2 {
   color: #ffffff;
   font-size: 30px;
   width: 40%;
   text-align: left;
+  margin-top: 70px;
 }
 
 .section-works .works .experience-description p {
   color: #f9e8fb;
   font-size: 24px;
   width: 40%;
-  margin-bottom: 70px;
 }
 
 .section-works .works .timeline-body-thumb img {
