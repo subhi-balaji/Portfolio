@@ -1207,7 +1207,7 @@ body {
   position: relative;
   font-size: 30px;
   text-align: center;
-  font-family: "Varela", sans-serif;
+  /* font-family: "Varela", sans-serif; */
   color: #f9e8fb;
 }
 
@@ -2348,7 +2348,8 @@ body {
 
 .section-quote p {
   margin-top: 0;
-  font-size: 36px;
+  font-size: 40px;
+  font-family: Ampersand;
 }
 
 .section-quote p span {
