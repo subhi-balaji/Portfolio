@@ -739,8 +739,12 @@ body {
 /*
  * Sections
  */
-.site-section {
+/* .site-section {
   padding: 100px 0;
+} */
+
+.site-section .section-team {
+  padding: 100px;
 }
 
 .site-section h2 {
