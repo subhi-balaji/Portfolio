@@ -1013,6 +1013,7 @@ body {
 
 .feature-about p {
   margin: 30px 0 0;
+  font-size: 15px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -2505,7 +2506,7 @@ body {
   margin-top: 50px;
   width: 100%;
   border-color: #dddddd;
-  color: #000;
+  color: rgb(255, 255, 255);
 }
 
 .section-contact .btn:hover {
