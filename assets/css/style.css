@@ -2319,16 +2319,6 @@ body {
   clip-path: circle();
 }
 
-.section-background
-  .section-me
-  .background-overlay
-  .text-center
-  .timeline-company-logo
-  img {
-  width: 30%;
-  height: 30%;
-}
-
 /*
  * Sections: Background;
  */
@@ -2401,6 +2391,13 @@ body {
   margin: 0;
   color: #ffffff;
   position: relative;
+  font-family: Ampersand;
+  font-size: 40px;
+}
+
+.timeline-company-logo img {
+  width: 40%;
+  height: 40%;
 }
 
 /* Sections background: Twitter */
