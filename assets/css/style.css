@@ -2286,6 +2286,12 @@ body {
   }
 }
 
+.site-section .section-sparkles .container p {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+
 @media only screen and (max-width: 479px) {
   /* Section: Portfolio */
   .section-works .col-xs-6 {
