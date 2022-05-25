@@ -2286,7 +2286,8 @@ body {
   }
 }
 
-.site-section .section-sparkles .symbols p {
+.section-sparkles .container .symbols p {
+  position: relative;
   color: #ffffff;
   font-size: 20px;
   text-align: center;
