@@ -2529,6 +2529,11 @@ body {
   margin: 15px auto 10px;
 }
 
+.section-contact .rectangle:hover {
+  background-color: #ffffff;
+  color: #9d7a95;
+}
+
 .section-contact .rectangle i {
   font-size: 28px;
 }
@@ -2539,7 +2544,9 @@ body {
 
 .feature-contact .links p {
   margin: 30px 0 0;
-  font-size: 15px;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
   color: #ffffff;
   float: none;
 }
