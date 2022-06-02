@@ -2521,6 +2521,24 @@ body {
   margin-top: 70px;
 }
 
+.section-contact .col-sm-3 {
+  min-height: 250px;
+}
+
+.section-contact .rectangle {
+  margin: 15px auto 10px;
+}
+
+.section-contact .rectangle i {
+  font-size: 28px;
+}
+
+.feature-contact .links p {
+  margin: 30px 0 0;
+  font-size: 15px;
+  color: #ffffff;
+}
+
 .section-contact .container form {
   margin-top: 70px;
 }
@@ -2535,6 +2553,39 @@ body {
 .section-contact .btn:hover {
   color: #ffffff;
   border-color: #a381ff;
+}
+
+/* .feature-contact h3 {
+  margin: 50px 0 0;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+} */
+
+@media only screen and (max-width: 767px) {
+  .section-about .row {
+    margin-top: 30px;
+  }
+  .section-about .col-xs-6:nth-child(n + 3) .feature-about {
+    margin-top: 20px;
+  }
+  .section-about .feature-about h3 {
+    margin-top: 30px;
+  }
+  .section-about .feature-about p {
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  .section-about .col-xs-6 {
+    width: 100%;
+    min-height: 100%;
+  }
+  .section-about .col-xs-6:nth-child(n + 2) .feature-about {
+    margin-top: 20px;
+  }
 }
 
 .form-control {
