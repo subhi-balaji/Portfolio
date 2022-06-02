@@ -2514,7 +2514,7 @@ body {
 
 /* Section: Contact */
 .section-contact .container {
-  max-width: 770px;
+  max-width: 970px;
 }
 
 .section-contact .row {
@@ -2522,7 +2522,7 @@ body {
 }
 
 .section-contact .col-sm-3 {
-  min-height: 250px;
+  min-height: 150px;
 }
 
 .section-contact .rectangle {
@@ -2541,7 +2541,7 @@ body {
   margin: 30px 0 0;
   font-size: 15px;
   color: #ffffff;
-  text-align: -webkit-center;
+  float: none;
 }
 
 .section-contact .container form {
@@ -2570,7 +2570,8 @@ body {
 
 @media (min-width: 768px) {
   .section-contact .col-sm-3 {
-    width: 30%;
+    width: 22%;
+    margin: 0px 54px 0px 54px;
   }
 }
 
