@@ -2716,15 +2716,14 @@ textarea.form-control {
   margin: 0 auto;
   width: 40px;
   height: 40px;
-  background-color: #ffffff;
-  border: none;
-  color: #a889c1; /* arrow color inside diamond at bottom of site */
+  background-color: #9d7a95;
+  color: #ffffff; /* arrow color inside diamond at bottom of site */
   box-shadow: none;
 }
 
 .site-footer .rectangle:hover {
-  background-color: #196fc2;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #9d7a95;
 }
 
 .site-footer .copyright {
