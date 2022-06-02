@@ -1019,6 +1019,11 @@ body {
   font-size: 15px;
 }
 
+.links p {
+  float: right;
+  color: white;
+}
+
 @media only screen and (max-width: 767px) {
   .section-about .row {
     margin-top: 30px;
