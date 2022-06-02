@@ -2533,10 +2533,15 @@ body {
   font-size: 28px;
 }
 
+.feature-contact {
+  text-align: -webkit-center;
+}
+
 .feature-contact .links p {
   margin: 30px 0 0;
   font-size: 15px;
   color: #ffffff;
+  text-align: -webkit-center;
 }
 
 .section-contact .container form {
@@ -2562,6 +2567,12 @@ body {
   text-transform: uppercase;
   color: #ffffff;
 } */
+
+@media (min-width: 768px) {
+  .section-contact .col-sm-3 {
+    width: 30%;
+  }
+}
 
 @media only screen and (max-width: 767px) {
   .section-contact .row {
