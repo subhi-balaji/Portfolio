@@ -2512,6 +2512,10 @@ body {
   max-width: 770px;
 }
 
+.section-contact .row {
+  margin-top: 70px;
+}
+
 .section-contact .container form {
   margin-top: 70px;
 }
