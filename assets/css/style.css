@@ -2564,26 +2564,26 @@ body {
 } */
 
 @media only screen and (max-width: 767px) {
-  .section-about .row {
+  .section-contact .row {
     margin-top: 30px;
   }
-  .section-about .col-xs-6:nth-child(n + 3) .feature-about {
+  .section-contact .col-xs-6:nth-child(n + 3) .feature-contact {
     margin-top: 20px;
   }
-  .section-about .feature-about h3 {
+  .section-contact .feature-contact h3 {
     margin-top: 30px;
   }
-  .section-about .feature-about p {
+  .section-contact .feature-contact p {
     margin-top: 15px;
   }
 }
 
 @media only screen and (max-width: 479px) {
-  .section-about .col-xs-6 {
+  .section-contact .col-xs-6 {
     width: 100%;
     min-height: 100%;
   }
-  .section-about .col-xs-6:nth-child(n + 2) .feature-about {
+  .section-contact .col-xs-6:nth-child(n + 2) .feature-contact {
     margin-top: 20px;
   }
 }
