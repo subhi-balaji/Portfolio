@@ -69,7 +69,9 @@ body {
   flex: 1;
   font-family: Ampersand;
   font-size: 16px;
+  text-transform: uppercase;
 }
+
 @font-face {
   font-family: "Ampersand";
   src: url("../fonts/ampersand-bold.woff2") format("woff2");
