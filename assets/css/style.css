@@ -45,6 +45,15 @@ body {
 }
 .nav__item {
 }
+
+.nav__item .nav__item--ul a {
+  color: #ffffff;
+}
+
+.nav__item .nav__item--ul a:hover {
+  color: #f9e8fb;
+}
+
 .nav__item--logo {
   display: flex;
   align-items: center;
@@ -1526,7 +1535,7 @@ body {
 
 .review-carousel .slick.rectangle:hover {
   background-color: #ffffff;
-  color: #35c219;
+  color: #ffffff;
 }
 
 .review-carousel .slick.rectangle.slick-next {
@@ -2377,7 +2386,7 @@ body {
 }
 
 .section-quote p span {
-  color: #c27319;
+  color: #ffffff;
 }
 
 .texteffect {
@@ -2501,7 +2510,7 @@ body {
 .client:hover {
   filter: grayscale(0%);
   -webkit-filter: grayscale(0%);
-  color: #b7b533;
+  color: #ffffff;
 }
 
 .client img {
@@ -2663,7 +2672,7 @@ textarea.form-control {
 .section-networks a:hover,
 .section-networks a:focus {
   background-color: #ffffff;
-  color: #c21919;
+  color: #ffffff;
 }
 
 /* FOOTER
@@ -2792,7 +2801,7 @@ textarea.form-control {
   top: -20px;
   height: 40px;
   width: 40px;
-  background-color: #196fc2;
+  background-color: #ffffff;
   color: #ffffff;
   box-shadow: none;
   border: 0;
