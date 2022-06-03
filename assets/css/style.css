@@ -72,6 +72,10 @@ body {
   text-transform: uppercase;
 }
 
+.nav__item--ul ul li:hover {
+  color: #f9e8fb;
+}
+
 @font-face {
   font-family: "Ampersand";
   src: url("../fonts/ampersand-bold.woff2") format("woff2");
