@@ -50,7 +50,7 @@ body {
   color: #ffffff;
 }
 
-.list-unstyled a:hover {
+/* .list-unstyled a:hover {
   color: #f9e8fb;
   text-decoration: underline;
   text-underline-offset: 20px;
@@ -60,7 +60,7 @@ body {
   color: #f9e8fb;
   text-decoration: underline;
   text-underline-offset: 20px;
-}
+} */
 
 .nav__item--logo {
   display: flex;
