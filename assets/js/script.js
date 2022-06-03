@@ -234,9 +234,9 @@ const navbarselected = document.getElementsByClassName(
 
 function followAboutSelected(e) {
   if (window.scrollY >= 80) {
-    navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`;
+    navbar.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
   } else if (window.scrollY < 125) {
-    return (navbar.style = `color: #ffffff; text-decoration:none;`);
+    return (navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
   }
 }
