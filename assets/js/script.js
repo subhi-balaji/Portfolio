@@ -242,8 +242,8 @@ function followAboutSelected(e) {
 window.addEventListener("scroll", followContactSelected);
 const contactselected = document.getElementById("contactsection");
 
-function followAboutContact(e) {
-  if (window.scrollY >= 978 || window.scrollY <= 968) {
+function followContactSelected(e) {
+  if (window.scrollY >= 6748 || window.scrollY <= 6738) {
     contactselected.style = ``;
     return () => window.removeEventListener("scroll");
   } else {

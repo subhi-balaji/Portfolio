@@ -56,6 +56,12 @@ body {
   text-underline-offset: 20px;
 }
 
+/* .list-unstyled .resume a:hover{
+  color: #f9e8fb;
+  text-decoration: underline;
+  text-underline-offset: 20px;
+} */
+
 /* .list-unstyled a:focus {
   color: #f9e8fb;
   text-decoration: underline;
@@ -2572,7 +2578,7 @@ body {
 }
 
 .feature-contact .headers p {
-  margin: 0 0 60px;
+  margin: 0 0 50px;
   font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
@@ -2582,7 +2588,7 @@ body {
 }
 
 .feature-contact .links p {
-  margin: 30px 0 0;
+  margin: 50px 0 0;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
