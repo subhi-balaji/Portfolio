@@ -228,15 +228,25 @@ function followNavbar(e) {
 }
 
 window.addEventListener("scroll", followAboutSelected);
-const navbarselected = document.getElementsByClassName(
-  "list-unstyled list-inline"
-);
+const aboutselected = document.getElementById("aboutsection");
 
 function followAboutSelected(e) {
   if (window.scrollY >= 978 || window.scrollY <= 968) {
-    navbar.style = `color: #ffffff; text-decoration:none;`;
+    aboutselected.style = ``;
     return () => window.removeEventListener("scroll");
   } else {
-    return (navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
+    return (aboutselected.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px; min-height:80px`);
+  }
+}
+
+window.addEventListener("scroll", followContactSelected);
+const contactselected = document.getElementById("contactsection");
+
+function followAboutContact(e) {
+  if (window.scrollY >= 978 || window.scrollY <= 968) {
+    contactselected.style = ``;
+    return () => window.removeEventListener("scroll");
+  } else {
+    return (contactselected.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px; min-height:80px`);
   }
 }
