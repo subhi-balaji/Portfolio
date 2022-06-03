@@ -2706,7 +2706,7 @@ textarea.form-control {
 }
 
 .site-footer ul a:hover {
-  color: #196fc2;
+  color: #ffffff;
 }
 
 .site-footer a {
@@ -2715,9 +2715,10 @@ textarea.form-control {
   text-transform: uppercase;
 }
 
-.site-footer a:hover {
+/* copywrite */
+/* .site-footer a:hover { 
   color: #ffffff;
-}
+} */
 
 .site-footer .rectangle {
   position: absolute;
