@@ -52,6 +52,8 @@ body {
 
 .list-unstyled a:hover {
   color: #f9e8fb;
+  text-decoration: underline;
+  text-underline-offset: 20px;
 }
 
 .nav__item--logo {
