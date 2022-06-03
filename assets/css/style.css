@@ -46,11 +46,11 @@ body {
 .nav__item {
 }
 
-.page-scroll ul a {
+.list-unstyled a {
   color: #ffffff;
 }
 
-.page-scroll ul a:hover {
+.list-unstyled a:hover {
   color: #f9e8fb;
 }
 
