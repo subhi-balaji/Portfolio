@@ -2801,7 +2801,7 @@ textarea.form-control {
 
 .modal-header .rectangle:hover {
   background-color: #ffffff;
-  color: #196fc2;
+  color: #ff0909;
   border-color: #196fc2;
 }
 
@@ -2816,7 +2816,7 @@ textarea.form-control {
 
 .modal-footer .btn:hover {
   background-color: #ffffff;
-  color: #196fc2;
+  color: #19c221;
   border-color: #196fc2;
 }
 
