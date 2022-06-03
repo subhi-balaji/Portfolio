@@ -120,11 +120,11 @@ button {
   outline: 0 none;
 } */
 
-/* a:hover,
+a:hover,
 a:focus {
   outline: 0 none;
   text-decoration: none;
-} */
+}
 
 /* LAYOUT
 ================================================== */
