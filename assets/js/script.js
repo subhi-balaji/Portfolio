@@ -228,13 +228,13 @@ function followNavbar(e) {
 }
 
 window.addEventListener("scroll", followAboutSelected);
-const navbarSelected = document.getElementsByClassName(
+const navbarselected = document.getElementsByClassName(
   "list-unstyled list-inline"
 );
 
 function followAboutSelected(e) {
   if (window.scrollY >= 978 || window.scrollY <= 968) {
-    navbarSelected.style = `color: #ffffff; text-decoration:none;`;
+    navbar.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
   } else {
     return (navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
