@@ -233,7 +233,7 @@ const navbarselected = document.getElementsByClassName(
 );
 
 function followAboutSelected(e) {
-  if (window.scrollY >= 1029 || window.scrollY <= 990) {
+  if (window.scrollY >= 1029 || window.scrollY <= 980) {
     navbar.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
   } else {
