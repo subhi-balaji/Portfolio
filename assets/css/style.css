@@ -56,11 +56,11 @@ body {
   text-underline-offset: 20px;
 }
 
-/* .list-unstyled a:focus {
+.list-unstyled a:focus {
   color: #f9e8fb;
   text-decoration: underline;
   text-underline-offset: 20px;
-} */
+}
 
 .nav__item--logo {
   display: flex;

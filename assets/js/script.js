@@ -226,3 +226,17 @@ function followNavbar(e) {
     return (navbar.style = `background-image: linear-gradient(180deg, rgba(236, 47, 253, 0),rgba(0, 0, 0, 0));`);
   }
 }
+
+window.addEventListener("scroll", followAboutSelected);
+const navbarselected = document.getElementsByClassName(
+  "list-unstyled list-inline"
+);
+
+function followAboutSelected(e) {
+  if (window.scrollY >= 80) {
+    navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`;
+    return () => window.removeEventListener("scroll");
+  } else if (window.scrollY < 125) {
+    return (navbar.style = `color: #ffffff; text-decoration:none;`);
+  }
+}
