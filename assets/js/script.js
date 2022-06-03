@@ -233,10 +233,10 @@ const navbarselected = document.getElementsByClassName(
 );
 
 function followAboutSelected(e) {
-  if (window.scrollY >= 1029 || window.scrollY <= 1026) {
+  if (window.scrollY >= 1023 || window.scrollY <= 1020) {
     navbar.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
-  } else if (window.scrollY < 1030) {
+  } else if (window.scrollY < 1025) {
     return (navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
   }
 }
