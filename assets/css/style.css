@@ -1526,7 +1526,7 @@ body {
 
 .review-carousel .slick.rectangle:hover {
   background-color: #ffffff;
-  color: #196fc2;
+  color: #35c219;
 }
 
 .review-carousel .slick.rectangle.slick-next {
@@ -2377,7 +2377,7 @@ body {
 }
 
 .section-quote p span {
-  color: #196fc2;
+  color: #c27319;
 }
 
 .texteffect {
@@ -2501,7 +2501,7 @@ body {
 .client:hover {
   filter: grayscale(0%);
   -webkit-filter: grayscale(0%);
-  color: #337ab7;
+  color: #b7b533;
 }
 
 .client img {
@@ -2663,7 +2663,7 @@ textarea.form-control {
 .section-networks a:hover,
 .section-networks a:focus {
   background-color: #ffffff;
-  color: #196fc2;
+  color: #c21919;
 }
 
 /* FOOTER
@@ -2801,8 +2801,8 @@ textarea.form-control {
 
 .modal-header .rectangle:hover {
   background-color: #ffffff;
-  color: #ff0909;
-  border-color: #196fc2;
+  color: #ffffff;
+  border-color: #ffffff;
 }
 
 .modal-header,
@@ -2816,8 +2816,8 @@ textarea.form-control {
 
 .modal-footer .btn:hover {
   background-color: #ffffff;
-  color: #19c221;
-  border-color: #196fc2;
+  color: #ffffff;
+  border-color: #ffffff;
 }
 
 .modal-content {
