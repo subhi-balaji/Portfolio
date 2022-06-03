@@ -237,8 +237,6 @@ function followAboutSelected(e) {
     navbarSelected.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
   } else {
-    return (navbarSelected.getElementsByClassName(
-      "page-scroll"
-    )[0].style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
+    return (navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
   }
 }
