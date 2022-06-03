@@ -46,11 +46,11 @@ body {
 .nav__item {
 }
 
-.nav__item .nav__item--ul a {
+.list-unstyled .list-inline ul a {
   color: #ffffff;
 }
 
-.nav__item .nav__item--ul a:hover {
+.list-unstyled .list-inline ul a:hover {
   color: #f9e8fb;
 }
 
