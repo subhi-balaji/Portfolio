@@ -236,7 +236,7 @@ function followAboutSelected(e) {
   if (window.scrollY >= 1023 || window.scrollY <= 1020) {
     navbar.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
-  } else if (window.scrollY < 1025) {
+  } else {
     return (navbar.style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
   }
 }
