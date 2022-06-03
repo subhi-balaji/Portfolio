@@ -110,7 +110,7 @@ body {
   font-display: block;
 }
 
-a,
+/* a,
 button {
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
@@ -118,13 +118,13 @@ button {
   transition: all 0.25s ease-in-out;
   cursor: pointer;
   outline: 0 none;
-}
+} */
 
-a:hover,
+/* a:hover,
 a:focus {
   outline: 0 none;
   text-decoration: none;
-}
+} */
 
 /* LAYOUT
 ================================================== */
@@ -2746,9 +2746,9 @@ textarea.form-control {
   text-transform: uppercase;
 }
 
-.site-footer ul a:hover {
+/* .site-footer ul a:hover {
   color: #ffffff;
-}
+} */
 
 .site-footer a {
   font-size: 12px;
@@ -2782,6 +2782,10 @@ textarea.form-control {
 .site-footer .copyright {
   margin-bottom: 0;
   color: #ffffff;
+}
+
+.copyright a {
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 767px) {
