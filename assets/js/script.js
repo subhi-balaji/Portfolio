@@ -228,16 +228,16 @@ function followNavbar(e) {
 }
 
 window.addEventListener("scroll", followAboutSelected);
-const elements = document.getElementsByClassName(
+const navbarSelected = document.getElementsByClassName(
   "list-unstyled list-inline"
-)[0];
+);
 
 function followAboutSelected(e) {
   if (window.scrollY >= 978 || window.scrollY <= 968) {
-    elements.style = `color: #ffffff; text-decoration:none;`;
+    navbarSelected.style = `color: #ffffff; text-decoration:none;`;
     return () => window.removeEventListener("scroll");
   } else {
-    return (elements.getElementsByClassName(
+    return (navbarSelected.getElementsByClassName(
       "page-scroll"
     )[0].style = `color: #f9e8fb; text-decoration: underline; text-underline-offset: 20px;`);
   }
